@@ -16,7 +16,11 @@
 
 RapiSoft provides a convenient way to carpool, whether you're looking for a ride or offering one!
 
-<img src="./rapisoftScreen1.jpg" alt="RapiSoft Screenshot" width="350">
+<img src="./rapisoftScreen1.jpg" alt="RapiSoft Screenshot" width="250">
 This is the first Screen Where the user can Book the cab with the required Number of seats and the desired Destination.<br><br>
-<img src="./rapisoftScreen2" alt="RapiSoft Screenshot2" width="350">
+<img src="./rapisoftScreen2.jpg" alt="RapiSoft Screenshot 2" width="250">
+<img src="./RapisoftScreen3.jpg" alt="RapiSoft Screenshot 3" width="500">
+
+This is the second Screen Where the user (Driver) can publish his cab with nessary details of the cab such as Seats Available, PickUp point, Destination, Time ,Data Etc.<br><br>
+
 
